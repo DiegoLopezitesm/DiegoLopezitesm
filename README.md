@@ -17,8 +17,11 @@ Participación en proyectos de sentido humano, trabajando actualmente en la ense
 
 
 ### Proyectos trabajados 💼📊
-## Emulador MARIE de microoperaciones
-## Análisis bio-computacional de virus, bacterias y estructuras 
+#### Emulador MARIE de microoperaciones
+
+#### Análisis bio-computacional de virus, bacterias y estructuras 
+#### Propuesta de pantallas inteligentes para Socio-Formador "PUMA:SELECT"
+#### Propuesta de pantallas inteligentes para Socio-Formador "PUMA:SELECT"
 
 
 
