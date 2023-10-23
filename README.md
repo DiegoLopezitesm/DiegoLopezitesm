@@ -18,10 +18,11 @@ Participación en proyectos de sentido humano, trabajando actualmente en la ense
 
 ### Proyectos trabajados 💼📊
 #### Emulador MARIE de microoperaciones
-
+- [Programa 1](https://github.com/DiegoLopezitesm/test/blob/main/A00836492_EV1.py)
 #### Análisis bio-computacional de virus, bacterias y estructuras 
 #### Propuesta de pantallas inteligentes para Socio-Formador "PUMA:SELECT"
 #### Propuesta de pantallas inteligentes para Socio-Formador "PUMA:SELECT"
+
 
 
 
