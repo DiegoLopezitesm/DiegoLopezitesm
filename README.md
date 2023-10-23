@@ -12,7 +12,7 @@ Participación en proyectos de sentido humano, trabajando actualmente en la ense
 <div style="display: flex; justify-content: space-between;">
     <img src="https://recluit.com/WP-Blog/wp-content/uploads/2020/07/Matlab-historia-recluit.png" alt="MATLAB" width="300" height="200">
     <img src="https://programacion.net/files/article/20160603020635_python-logo.png" alt="PHYTON" width="400" height="200">
-    <img src="https://conclase.net/imagen/c/curso/C++logo.svg" alt="C++" width="200" height="200">
+    <img src="https://conclase.net/imagen/c/curso/C++logo.svg" alt="C++" width="150" height="150">
 </div>
 
 
