@@ -1,6 +1,6 @@
 #  ¡Hola! 👋
- Bienvenido a mi pagína de GitHub. Coleccion de proyectos importantes para mi procurando el desarrollo humano.
-
+ Bienvenido a mi pagína de GitHub.
+ 
 ## Detrás del programador 👨‍💻 
 Estudiante IRS en la 6ta mejor universidad de latinoámerica (Instituto Tecnológico de Estudios Superiores de Monterrey), 1 año de experiencia en la implementación de sistemas inteligentes en proyectos de construcción. Gusto por la Ingenieria computacional y la dómotica.
 
